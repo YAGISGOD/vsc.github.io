@@ -2,7 +2,7 @@ virtual space creator
 ==========
 予算前後のもの
 
-### Xperia 1 II SOG01
+### Xperia 1 II SOG01 <SONY>
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=sog01&dispNo=001005>
 
 
@@ -11,7 +11,7 @@ virtual space creator
 高いけどまぁ安定、高い
 
 
-### OPPO Find X2 Pro OPG01
+### OPPO Find X2 Pro OPG01 <OPPO>
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=opg01&dispNo=001005>
 
 
@@ -25,7 +25,7 @@ virtual space creator
 
 
 
-### Xperia 5 SOV41
+### Xperia 5 SOV41 <SONY>
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=SOV41&dispNo=001005>
 
 
@@ -35,7 +35,7 @@ SONYで予算以内ならこれなんだけど
 onlineで在庫なしなので店舗でも怪しい
 
 
-### Xperia 10 II SOV43
+### Xperia 10 II SOV43 <SONY>
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=sov43&dispNo=001005>
 
 
