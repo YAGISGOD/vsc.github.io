@@ -1,25 +1,25 @@
-�\�Z�O��̂���
+予算前後のもの
 
 ### Xperia 1 II SOG01
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=sog01&dispNo=001005>
 
 
-133,600�~
+133,600円
 
-�������ǂ܂�����A����
+高いけどまぁ安定、高い
 
 
 ### OPPO Find X2 Pro OPG01
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=opg01&dispNo=001005>
 
 
-92,040�~
+92,040円
 
-�\�Z�ƃX�y�b�N�I�ɂ͂��ꂪ�ŋ�
+予算とスペック的にはこれが最強
 
-�Ȃ񂾂��ǁA���؃��[�J�[�Ȃ̂Ńt�@�[�E�F�C�݂����ɂȂ�\��������
-���ƌ��X�����������ł͂Ȃ��̂ł��T�C�t�P�[�^�C��Ή��i��ʌn�Ƃ�FeliCa���g�����̑S�����߁j
-�Ǝ�OS�Ƃ��Ɏg���ɂ���������炵��
+なんだけど、中華メーカーなのでファーウェイみたいになる可能性もある
+あと元々が国内向けではないのでおサイフケータイ非対応（交通系とかFeliCaを使うもの全部だめ）
+独自OSとかに使いにくさもあるらしい
 
 
 
@@ -27,36 +27,36 @@
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=SOV41&dispNo=001005>
 
 
-81,400�~
+81,400円
 
-SONY�ŗ\�Z�ȓ��Ȃ炱��Ȃ񂾂���
-online�ō݌ɂȂ��Ȃ̂œX�܂ł�������
+SONYで予算以内ならこれなんだけど
+onlineで在庫なしなので店舗でも怪しい
 
 
 ### Xperia 10 II SOV43
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=sov43&dispNo=001005>
 
 
-49,990�~
+49,990円
 
-�l�i�͂����Ɖ�����
-���͂悭�Ă����N�タ���Ǝg���Ă邩�͔���
+値段はぐっと下がる
+今はよくても数年後ちゃんと使えてるかは微妙
 
 
-### ���̑�
-�V���[�v�̃A�N�I�X��SONY�ƃT���X���ɔ�ׂ�Ƃ��������l�����肪�������̂�
-���������������Ȃ񂾂Ǝv��
+### その他
+シャープのアクオスはSONYとサムスンに比べるとすっごく値下がりが激しいので
+多分そういう事なんだと思う
 
-�T���X���̃M�����N�V�[�̓~�h���т�������
+サムスンのギャラクシーはミドル帯が無くて
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=scg01&dispNo=001005>
 Galaxy S20 5G SCG01
-117,480�~
+117,480円
 
-���ꂪ��ʂ̒��̉��ʁi�Ӗ����`���ɂ������ǂ���̂���ɏ�ʂ�����������j
+これが上位の中の下位（意味が伝わりにくいけどこれのさらに上位がいくつかある）
 
 
 <http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=scv48&dispNo=001005>
 Galaxy A41 SCV48
-39,660�~
+39,660円
 
-���ꂪ���̎��ŉ��i���������i���i�������󂶂�Ȃ���j
+これがその次で価格差が酷い（製品が酷い訳じゃないよ）
