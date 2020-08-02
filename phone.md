@@ -1,62 +1,26 @@
-予算前後のもの
+###Dex
 
-### Xperia 1 II SOG01
-<http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=sog01&dispNo=001005>
+使い方①
+USBでPCに繋ぐとNOXエミュレーターみたいに動かせる
+(PCに映してマウス操作できる)
 
+<https://www.galaxymobile.jp/apps/dex/>
+一部非対応アプリあり
 
-133,600円
+使い方②
+USB typeC→HDMIケーブルという特殊なつなぎ方をしてモニタのHDMI端子に挿して映す
+特殊プレイなので詳しくは書きません
 
-高いけどまぁ安定、高い
+###NiceLock
+ややこしいけどサムスン純正のカスタマイズアプリ
+なぜか日本に公式提供してない
 
+<https://mobile9.jp.net/nicelock-downloader-companion/>
 
-### OPPO Find X2 Pro OPG01
-<http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=opg01&dispNo=001005>
+この中のMultiStarで
+マルチウインドウの複数アプリがアクティブにできる（片方が止まらない設定
 
+さらにSound Assistantで
+アプリごとの音量を変えれる
 
-92,040円
-
-予算とスペック的にはこれが最強
-
-なんだけど、中華メーカーなのでファーウェイみたいになる可能性もある
-あと元々が国内向けではないのでおサイフケータイ非対応（交通系とかFeliCaを使うもの全部だめ）
-独自OSとかに使いにくさもあるらしい
-
-
-
-### Xperia 5 SOV41
-<http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=SOV41&dispNo=001005>
-
-
-81,400円
-
-SONYで予算以内ならこれなんだけど
-onlineで在庫なしなので店舗でも怪しい
-
-
-### Xperia 10 II SOV43
-<http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=sov43&dispNo=001005>
-
-
-49,990円
-
-値段はぐっと下がる
-今はよくても数年後ちゃんと使えてるかは微妙
-
-
-### その他
-シャープのアクオスはSONYとサムスンに比べるとすっごく値下がりが激しいので
-多分そういう事なんだと思う
-
-サムスンのギャラクシーはミドル帯が無くて
-<http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=scg01&dispNo=001005>
-Galaxy S20 5G SCG01
-117,480円
-
-これが上位の中の下位（意味が伝わりにくいけどこれのさらに上位がいくつかある）
-
-
-<http://onlineshop.au.com/disp/CSfLastGoodsPage_001.jsp?GRP_ID=scv48&dispNo=001005>
-Galaxy A41 SCV48
-39,660円
-
-これがその次で価格差が酷い（製品が酷い訳じゃないよ）
+他にも機能はあるので気になったら調べて
